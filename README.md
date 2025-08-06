@@ -9,7 +9,7 @@ A browser-based typing speed tester with an optional **Distraction Mode** design
 - Pure HTML, CSS, and JavaScript — no frameworks
 
 ## Demo
-👉 [Live Demo](https://your-username.github.io/FocusType/)
+👉 [Live Demo](https://typetestpro.netlify.app/)
 
 
 ## Getting Started
