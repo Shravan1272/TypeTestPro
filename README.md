@@ -1,4 +1,4 @@
-# FocusType — Typing Speed & Accuracy Test
+# TypeTestPro — Typing Speed & Accuracy Test
 
 A browser-based typing speed tester with an optional **Distraction Mode** designed to challenge users with animated alerts and pop-ups.
 
